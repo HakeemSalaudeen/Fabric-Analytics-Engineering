@@ -1,20 +1,16 @@
 # retail_db
 
-This contains data sets which are copied from Cloudera Quick Start VM.
+CHALLENGE COMPLETED!
 
-Here are the instructions to setup this repository.
+Recently, I took on the "AI Skills Challenge: Fabric Analytics Engineer" on Microsoft Learn, and it proved to be an invaluable learning experience! 
 
-* Clone the repository `git clone https://github.com/dgadiraju/retail_db.git`
-* It will create folder called as retail_db.
-* Folder contains 6 sub folders
-  * customers
-  * departments
-  * categories
-  * products
-  * orders
-  * order_items
-* Files are of type text file. Records are delimited by new line character and fields with in each record are delimited by comma.
+This challenge was designed for Power BI Data Analysts looking to upskill as data engineers, and it covered crucial aspects of working with Microsoft Fabric. Through hands-on practice, I gained proficiency in:
 
-You can also create tables with all relationships and load the data into all the tables by using `create_db.sql`.
+✅ Using Spark SQL to query data in tables and views
+✅ Applying the medallion architecture principles in data management
+✅ Creating and monitoring pipelines based on predefined templates
+✅ Understanding the differences between a data warehouse and a data lakehouse
 
-You can sign up for our courses to learn about Spark, kafka and other important technologies by clicking [here](http://discuss.itversity.com/t/udemy-coupons-big-data-courses/17934).
+Specifically, I worked with Spark dataframes for data analysis and transformation, leveraged the Copy Data activity within pipelines, and implemented the medallion architecture framework within the Microsoft Fabric environment. Additionally, I learned how to create and manage fact tables and dimensions within a data warehouse.
+
+Overall, this challenge provided a comprehensive introduction to the world of data engineering with Microsoft Fabric. It expanded my technical skillset and reinforced the importance of data management and architecture in delivering reliable and insightful analytics solutions.
