@@ -1,6 +1,4 @@
-# retail_db
-
-CHALLENGE COMPLETED!
+# CHALLENGE COMPLETED!
 
 Recently, I took on the "AI Skills Challenge: Fabric Analytics Engineer" on Microsoft Learn, and it proved to be an invaluable learning experience! 
 
